@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Microservices/EventAPI/EventAPI/obj
+/Microservices/IdentityAPI/IdentityAPI/obj

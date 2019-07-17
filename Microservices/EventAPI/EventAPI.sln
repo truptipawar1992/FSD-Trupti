@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventAPI", "EventAPI\EventAPI.csproj", "{4ABFB487-8F8C-4471-A5AE-90ACE8E8509C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ABFB487-8F8C-4471-A5AE-90ACE8E8509C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ABFB487-8F8C-4471-A5AE-90ACE8E8509C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ABFB487-8F8C-4471-A5AE-90ACE8E8509C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ABFB487-8F8C-4471-A5AE-90ACE8E8509C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D632C733-2EC5-43DF-8E45-4B7B2B1C295A}
+	EndGlobalSection
+EndGlobal
